@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: #FFF;
+    background-color: #ebf2f5;
+}
+
+/* Por padrao eles nao usam a font-family do body.
+Pois eles utilizam uma propria deles. Então precisamos
+passar qual fonte vamos utilizar neles ja que vamo utiliza-los.
+*/
+body, input, bottom, textarea {
+    font: 600 18px Nunito, sans-serif;
+}

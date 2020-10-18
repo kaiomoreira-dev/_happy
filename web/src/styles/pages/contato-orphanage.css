@@ -1,0 +1,38 @@
+#page-contato {
+    width: 100vw;
+    height: 100vh;
+
+    position: relative;
+    
+    
+}
+
+#page-contato .orphanato-contato{
+    position: absolute;
+    background: #fff; 
+    width: 50%;
+    height: 150px;
+    border: 1px solid #0089A5 ;
+    color: #0089A5;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-left: 15px;
+    
+    left: 550px;
+    top: 50px;
+
+    
+
+    
+    
+}
+
+#page-contato .orphanato-contato h1{
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+#page-contato .orphanato-contato span{
+    font-size: 20px;
+    
+}
